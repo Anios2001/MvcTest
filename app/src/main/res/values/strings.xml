@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVC Test App</string>
+    <string name="Count">Count: 0</string>
+</resources>
