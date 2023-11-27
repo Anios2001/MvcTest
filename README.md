@@ -10,7 +10,7 @@ But for a well defined and architected system which is Scalable, Adaptable and E
 <b> That's where architectural design patterns and its type factors in. </b>
 The most basic and widely used pattern (Android as well as non-Android) is MVC. 
 It stands for ```Model View Controller```
-1. 1.MODEL = ``` The data model for accessing the data part of the application and abstracting the relationships between the Objects used to design the system. Let's one build and extend data capabilities of system irrespective of View```
-2. 2.VIEW = ``` The view part of MVC only provides an interface to change the view through controller and is completely decoupled from the model ```
-3. 3.CONTROLLER = ```The business logic of application resides here and it extracts the data from the Model and displays it using view methods.```
-4. 
+1. MODEL = ``` The data model for accessing the data part of the application and abstracting the relationships between the Objects used to design the system. Let's one build and extend data capabilities of system irrespective of View```
+2. VIEW = ``` The view part of MVC only provides an interface to change the view through controller and is completely decoupled from the model ```
+3. CONTROLLER = ```The business logic of application resides here and it extracts the data from the Model and displays it using view methods.```
+   
